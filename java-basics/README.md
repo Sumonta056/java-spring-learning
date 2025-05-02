@@ -1,5 +1,7 @@
 ## Topic Covered :
 
+> Notion Notes : [Link here](https://gentle-thread-194.notion.site/Java-Spring-Boot-1e5e591153f08095aeb8de73bfd0db7d)
+
 1. Basic Topics :
    - [Primitive Data Types](https://www.baeldung.com/java-primitives)
      - [Java variable & naming conventions](https://jenkov.com/tutorials/java/variables.html)

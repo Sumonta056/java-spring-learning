@@ -12,4 +12,11 @@
    - Java Control Structure, If/else Statements, Loops & Operators
 2. Basic OOP
    - OOP Basic Concepts
-   - Constructor : [Here](./src/basics/OOP/Constructor)
+   - Constructor: [Here](./src/basics/OOP/Constructor)
+   - Encapsulation: [Here](./src/basics/OOP/Encapsulation)
+     - Why Encapsulation? What does it do?
+     - Encapsulation vs. Abstraction?
+   - Abstraction: [Here](./src/basics/OOP/Abstraction)
+     - What is Abstraction?
+     - Why Abstraction? What does it do?
+   

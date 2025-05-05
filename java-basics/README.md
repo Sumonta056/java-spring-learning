@@ -11,7 +11,7 @@
    - [Java Type Casting](https://www.programiz.com/java-programming/typecasting)
    - Java Control Structure, If/else Statements, Loops & Operators
 2. Basic OOP
-   - OOP Basic Concepts
+   - OOP Basic Concepts: Concrete Class
    - Constructor: [Here](./src/basics/OOP/Constructor)
    - Encapsulation: [Here](./src/basics/OOP/Encapsulation)
      - Why Encapsulation? What does it do?
@@ -19,4 +19,12 @@
    - Abstraction: [Here](./src/basics/OOP/Abstraction)
      - What is Abstraction?
      - Why Abstraction? What does it do?
-   
+   - Inheritance: [Here](./src/basics/OOP/Inheritence)
+     - What is Inheritance?
+     - Why Inheritance? What does it do?
+     - Rules of Inheritance
+   - Interface: [Here](./src/basics/OOP/Interface)
+   - Access Modifiers: [Here](./src/basics/OOP/AccessModifiers)
+   - Polymorphism:
+     - Overloading: [Here](./src/basics/OOP/Polymorphism/OverLoading)
+     - Overriding: [Here](./src/basics/OOP/Polymorphism/Overridding)

@@ -1,6 +1,6 @@
 package advance.exceptions;
 
-// Checked -> Exception
+// Checked -> Main
 // Unchecked (runtime) -> RuntimeException
 
 public class InsufficientFundsException extends Exception {

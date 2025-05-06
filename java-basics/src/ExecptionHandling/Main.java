@@ -3,7 +3,7 @@ package ExecptionHandling;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
-public class Exception {
+public class Main {
     public static void sayHello(String name) {
         System.out.println("Hello " + name);
     }

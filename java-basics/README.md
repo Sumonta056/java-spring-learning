@@ -31,4 +31,8 @@
    - Keyword 'this' and 'super' and 'final: [Here](./src/basics/OOP/ThisAndSuper)
    - Autoboxing—Unboxing: Primitive(int) to Wrapper(Integer) Class and vice versa
    - Equals() & Hashcode() 
-   - 
+
+## Resources:
+
+- https://docs.google.com/document/d/1U8JNsvblOKxewqPWqdrPqg9soR5FGP__nhmz5eXkuqI/edit?usp=sharing
+- https://github.com/simantaturja/Learn-Java-Spring/tree/main?tab=readme-ov-file

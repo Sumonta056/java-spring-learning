@@ -24,7 +24,7 @@ public class Basics {
             System.out.println(entity.getKey() + " : " + entity.getValue());
         }
 
-        // Lambda expression to iterate over the map
+        // LambdaExample expression to iterate over the map
         map.forEach((k,v) -> System.out.println(k + " : " + v));
 
         Map<String, Integer> map2 = new HashMap<>(Map.of("Alice", 30, "Bob", 35));
